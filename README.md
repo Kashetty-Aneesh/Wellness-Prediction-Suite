@@ -55,15 +55,5 @@ For more detailed instructions, please refer to the [documentation](projectDocum
 - Collaborate with healthcare professionals for clinical validation. 🩺
 - Address data privacy, model interpretability, and regulatory compliance for broader adoption. 🔒
 
-## License 📜
-This project is submitted as part of the requirements for the Bachelor of Engineering in CSE(AIML) at Neil Gogte Institute of Technology, Hyderabad. All ideas and references are duly acknowledged. 🎓
-
-
 ---
-
-### Notes on Changes
-- **Emojis**: Added relevant emojis to each section heading and list item to make the README more engaging and visually appealing (e.g., 🩺 for health-related sections, 🖥️ for interface, 📊 for predictions).
-- **Documentation Reference**: Added a line under the "Usage" section: "For more detailed instructions, please refer to the [documentation](docs/) 📚." I assumed a `docs/` directory for documentation; adjust the link (`[documentation](docs/)`) if your documentation is located elsewhere (e.g., a specific file like `[documentation](docs/setup.md)` or an external URL).
-- **Consistency**: Ensured the tone and structure remain professional while adding the requested enhancements.
-
-Let me know if you’d like further adjustments, such as adding more emojis, changing the documentation link, or modifying the style!
+You can also download the models from [Here]( https://drive.google.com/drive/folders/1DbsJaiHoURN0igsKeIm2gOm16wylpwEz?usp=drive_link )
